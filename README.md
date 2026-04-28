@@ -19,4 +19,4 @@ Tenho me dedicado a aprender e aprimorar habilidades tanto no front-end quanto n
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width= "30px" style="padding-right:10px" />
             
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "30px" style="padding-right:10px" />
-          
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width= "30px" style="padding-right:10px" />   
