@@ -7,6 +7,7 @@ Tenho me dedicado a aprender e aprimorar habilidades tanto no front-end quanto n
 - 📚 Estudando Metodologias Ágeis e Versionamento;
 - Codificação para Back-End e para Front-End;
 - Desenvolvimento e Testes de Aplicações Web.
+  ## Linguagens e Ferramentas de Desenvolvimento 💻
   
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "30px" style="padding-right:10px" /> 
