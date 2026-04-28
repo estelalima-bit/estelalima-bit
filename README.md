@@ -9,3 +9,7 @@ Tenho me dedicado a aprender e aprimorar habilidades tanto no front-end quanto n
 - Desenvolvimento e Testes de Aplicações Web.
   
 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "30px" style="padding-right:10px" />
+
+
+          
